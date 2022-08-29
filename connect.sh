@@ -1,0 +1,1 @@
+kubectl port-forward deployment/helloworld-deployment 8080
